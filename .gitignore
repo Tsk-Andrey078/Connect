@@ -1,5 +1,5 @@
 .DS_Store
-cn_vue/node_modules
+node_modules
 /dist
 venv
 
